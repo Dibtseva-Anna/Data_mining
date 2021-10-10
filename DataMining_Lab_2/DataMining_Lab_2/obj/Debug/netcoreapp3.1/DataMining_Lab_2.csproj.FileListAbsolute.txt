@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\bin\Debug\netcoreapp3.1\DataMining_Lab_2.exe
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\bin\Debug\netcoreapp3.1\DataMining_Lab_2.deps.json
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\bin\Debug\netcoreapp3.1\DataMining_Lab_2.runtimeconfig.json
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\bin\Debug\netcoreapp3.1\DataMining_Lab_2.runtimeconfig.dev.json
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\bin\Debug\netcoreapp3.1\DataMining_Lab_2.dll
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\bin\Debug\netcoreapp3.1\DataMining_Lab_2.pdb
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.csprojAssemblyReference.cache
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.Form1.resources
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.csproj.GenerateResource.cache
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.AssemblyInfo.cs
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.dll
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.pdb
+D:\VisualStudioProjects\DataMining_Lab_2\DataMining_Lab_2\obj\Debug\netcoreapp3.1\DataMining_Lab_2.genruntimeconfig.cache
