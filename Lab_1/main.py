@@ -1,7 +1,12 @@
+# for files
 import pandas as pd
+# for work with regular expressions
 import re
+# wordlist of stopwords
 from nltk.corpus import stopwords
+# for stemming
 from nltk.stem import PorterStemmer
+# for diagrams
 from matplotlib import pyplot as plt
 
 
